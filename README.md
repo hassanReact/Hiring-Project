@@ -9,10 +9,6 @@ Welcome to your Full Stack Authentication project built with **Node.js (Express)
 /backend -> Express.js API
 /frontend -> React.js (Vite) Client
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Backend Setup (`/backend`)
