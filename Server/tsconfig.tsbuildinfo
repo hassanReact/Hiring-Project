@@ -1,0 +1,1 @@
+{"root":["./db/db.config.ts","./prisma/seed.ts","./src/index.ts","./src/controllers/auth.controller.ts","./src/controllers/user.controller.ts","./src/middleware/auth.ts","./src/routes/auth.route.ts","./src/routes/user.route.ts","./src/utils/mailersender.ts","./src/utils/generatetokenandsetcookie.ts","./src/utils/template.ts"],"version":"5.7.3"}
