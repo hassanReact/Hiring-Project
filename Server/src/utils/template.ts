@@ -38,7 +38,7 @@ export const VERIFICATION_EMAIL_TEMPLATE = `
         <div style="font-size: 36px; font-weight: 800; color: #4facfe; letter-spacing: 8px; font-family: 'Courier New', monospace; text-shadow: 0 2px 4px rgba(79, 172, 254, 0.2); position: relative;">
           {verificationCode}
         </div>
-        <p style="color: #a0aec0; font-size: 12px; margin: 15px 0 0 0;">⏰ Expires in 15 minutes</p>
+        <p style="color: #a0aec0; font-size: 12px; margin: 15px 0 0 0;">⏰ Expires in 5 minutes</p>
       </div>
 
       <!-- Instructions -->
